@@ -1,5 +1,7 @@
 
 
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
 ### Hi there! 👋
 
 <a href="https://sustaining-replace-775.notion.site/8417a78739a24556a9b82efe55b2c84d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=notion&logoColor=white"/></a>
