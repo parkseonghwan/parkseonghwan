@@ -1,7 +1,5 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Hi!%20I'm Daniel&fontSize=90)
-
 ### Hi there! 👋
 
 <a href="https://sustaining-replace-775.notion.site/8417a78739a24556a9b82efe55b2c84d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=notion&logoColor=white"/></a>
