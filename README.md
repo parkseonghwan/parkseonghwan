@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Welcome%20Daniel's&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Welcome%20Daniel's%20GitHub&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
 ### Hi there! 👋
 
