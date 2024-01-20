@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=blue&height=10&section=header&text=Daniel's GitHub &fontSize=10" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Daniel's GitHub%20render&fontSize=90)
 
 
 ### Hi there! 👋
