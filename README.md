@@ -1,9 +1,7 @@
-
+<img src="https://capsule-render.vercel.app/api?type=shark&color=blue&height=10&section=header&text=Daniel's GitHub &fontSize=10" />
 
 
 ### Hi there! 👋
-
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Daniel's Github :)&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
 <a href="https://sustaining-replace-775.notion.site/8417a78739a24556a9b82efe55b2c84d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://sustaining-replace-775.notion.site/8417a78739a24556a9b82efe55b2c84d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/기술블로그-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/itellme7319@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/itellme-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
