@@ -33,11 +33,7 @@ Platforms & Languages
 
 
 
-
-
-
-
-![aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/37b3ce76-798a-4e9a-ad21-c41c98117765) ![awsicon (1) (1)](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/dfa236ba-5f83-4fc7-aaa2-10a1c66d9bef)
+![awsicon (1) (1)](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/dfa236ba-5f83-4fc7-aaa2-10a1c66d9bef) AWS
 
 
 
