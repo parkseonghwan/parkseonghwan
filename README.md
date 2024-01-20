@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=Waving&height=200&text=Daniel's GitHub&fontColor=d5e6f5&color=timeGradient&animation=fadeIn" />
 
 ### Hi there! 👋
 
