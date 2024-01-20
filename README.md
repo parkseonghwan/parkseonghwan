@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Welcome%20Daniel's%20GitHub&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
 ### Hi there! 👋
+Hello, I'm Daniel. With over 7 years of backend development experience, I specialize in building high-performance APIs and microservices using Java/SpringFrameworks.Proficient in managing both SQL and NoSQL databases like MySQL I leverage AWS to deploy scalable and fault-tolerant applications.
+I have a track record of optimizing system efficiency, as seen in MSA development  & Building AWS Infrastructure, and prioritize writing clean, maintainable code. Seeking new challenges, I am eager to contribute my skills to innovative projects. Thank you for considering my application. I look forward to the opportunity to discuss how I can add value to your team.
 
 <a href="https://sustaining-replace-775.notion.site/8417a78739a24556a9b82efe55b2c84d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://sustaining-replace-775.notion.site/8417a78739a24556a9b82efe55b2c84d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/기술블로그-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/itellme7319@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/itellme-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
