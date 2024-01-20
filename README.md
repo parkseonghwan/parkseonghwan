@@ -37,7 +37,8 @@ Platforms & Languages
 
 
 
-![aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/37b3ce76-798a-4e9a-ad21-c41c98117765) ![awsicon (1)](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/186be6fc-6235-45e0-bb60-2b908d0cee79)
+![aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/37b3ce76-798a-4e9a-ad21-c41c98117765) ![awsicon (1) (1)](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/dfa236ba-5f83-4fc7-aaa2-10a1c66d9bef)
+
 
 
 
