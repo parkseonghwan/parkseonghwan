@@ -37,7 +37,8 @@ Platforms & Languages
 
 
 
-![aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/37b3ce76-798a-4e9a-ad21-c41c98117765)![awsicon](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/0a01f29e-718c-4634-9828-b60bf18420c7)
+![aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/37b3ce76-798a-4e9a-ad21-c41c98117765) ![awsicon (1)](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/186be6fc-6235-45e0-bb60-2b908d0cee79)
+
 
 
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
