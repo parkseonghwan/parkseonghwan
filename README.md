@@ -37,8 +37,7 @@ Platforms & Languages
 
 
 
-![aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/37b3ce76-798a-4e9a-ad21-c41c98117765) 
-![8708-aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/76250326-4062-4a79-b68d-bbe177077359)
+![aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/37b3ce76-798a-4e9a-ad21-c41c98117765)![aws(https://noticonstatic.tammolo.com/dgggcrkxq/image/upload/v1566777755/noticon/yfmwxv8nhnr5aqaxhxpg.png)
 
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white"/> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
