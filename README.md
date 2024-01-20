@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Hi! I'm Daniel :)&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
 ### Hi there! 👋
 
