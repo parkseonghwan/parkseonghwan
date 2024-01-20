@@ -29,7 +29,7 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/k8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
-![aws 256x153](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/32e04eff-4f7c-4895-b765-e8ac007bd407)
+![aws](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/37b3ce76-798a-4e9a-ad21-c41c98117765) AWS
 
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
 
