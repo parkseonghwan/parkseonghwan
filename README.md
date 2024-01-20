@@ -33,9 +33,7 @@ Platforms & Languages
 
 
 
-![awsicon (1) (1)](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/dfa236ba-5f83-4fc7-aaa2-10a1c66d9bef) AWS
-
-
+![awsicon (1) (1)](https://github.com/parkseonghwan/parkseonghwan/assets/15334751/dfa236ba-5f83-4fc7-aaa2-10a1c66d9bef)
 
 
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
